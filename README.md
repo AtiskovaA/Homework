@@ -18,24 +18,28 @@
 ## Блок 2. «JAVA CORE»
 2.1. [Лямбда-выражения и функциональные интерфейсы](https://github.com/AtiskovaA/-TreeMap_)
 
-2.2. [Stream API. Потоки, повторные вызовы, основные методы]()
+2.2. [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/AtiskovaA/Stream)
 
-2.3. [Потоки ввода-вывода. Работа с файлами. Сериализация]()
+2.3. [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/AtiskovaA/Serialization)
 
-2.4. [Тестирование кода и Unit-тесты]()
+2.4. [Сборка проектов. Maven и Gradle](https://github.com/AtiskovaA/Maven)
 
-2.5. [Mockito. Мокирование вызовов, Mock]()
+2.5. [Работа с файлами CSV, XML, JSON]()
 
-2.6. [Основы работы с сетью. Модель OSI, TCP, UDP]()
+2.6. [Тестирование кода и Unit-тесты](https://github.com/AtiskovaA/Unit)
 
-2.7. [Протокол HTTP. Вызов удаленных серверов]()
+2.7. [Mockito. Мокирование вызовов, Mock](https://github.com/AtiskovaA/geo-service)
+
+2.8. [Основы работы с сетью. Модель OSI, TCP, UDP](https://github.com/AtiskovaA/Server)
+
+2.9. [Протокол HTTP. Вызов удаленных серверов](https://github.com/AtiskovaA/Cat)
 
 
 ## Блок 3. «Шаблоны проектирования»
-3.1. [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype]()
+3.1. [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/AtiskovaA/Builder)
 
-3.2. [Структурные шаблоны. Proxy, Decorator, Adapter]()
+3.2. [Структурные шаблоны. Proxy, Decorator, Adapter](https://github.com/AtiskovaA/Adapter)
 
-3.3. [Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility]()
+3.3. [Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility](https://github.com/AtiskovaA/Iterator)
 
 
