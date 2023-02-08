@@ -9,7 +9,11 @@
 
 1.4. [Коллекции List](https://github.com/AtiskovaA/List)
 
-1.5. [Коллекции Queue]()
+1.5. [Коллекции Queue](https://github.com/AtiskovaA/Queue)
+
+1.6. [Коллекции HashSet и HashMap](https://github.com/AtiskovaA/HashSet-HashMap)
+
+1.7. [Коллекции TreeMap и TreeSet](https://github.com/AtiskovaA/TreeMap-TreeSet)
 
 ## Блок 2. «GIT — система контроля версий»
 2.1.[]()
@@ -17,4 +21,8 @@
 2.2.[]()
 
 2.3.[]()
-  
+
+## Блок 3. «Шаблоны проектирования»
+3.1.[]()
+
+3.2.[]()
