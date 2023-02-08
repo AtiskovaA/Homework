@@ -16,7 +16,7 @@
 1.7. [Коллекции TreeMap и TreeSet](https://github.com/AtiskovaA/TreeMap-TreeSet)
 
 ## Блок 2. «JAVA CORE»
-2.1. [Лямбда-выражения и функциональные интерфейсы]()
+2.1. [Лямбда-выражения и функциональные интерфейсы](https://github.com/AtiskovaA/-TreeMap_)
 
 2.2. [Stream API. Потоки, повторные вызовы, основные методы]()
 
